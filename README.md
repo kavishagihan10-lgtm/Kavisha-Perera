@@ -6,44 +6,43 @@ I specialize in developing custom **TradingView indicators, automated strategies
 ---
 
 ### 🛠️ What I Build
-* **Custom Indicators:** Multi-Timeframe (MTF) dashboards, Order Blocks, Liquidity Sweeps, BOS/CHOCH, and Power of 3 (PO3) setups.
-* **Confluence & Filter Tools:** Moving Averages (EMA/WMA), MACD, RSI, Volume Spikes, and London/New York Session filters.
-* **Trading Strategies & Backtesting:** Converting indicators into full strategies with custom Stop Loss, Take Profit, Trailing Stops, and Risk Management.
-* **Custom Alerts:** Webhook-ready alerts for automated trading bots and Telegram/Discord notifications.
+- **Custom Indicators:** Multi-Timeframe (MTF) dashboards, Order Blocks, Liquidity Sweeps, BOS/CHOCH, and Power of 3 (PO3) setups.
+- **Confluence & Filter Tools:** Moving Averages (EMA/WMA), MACD, RSI, Volume Spikes, and London/New York Session filters.
+- **Trading Strategies & Backtesting:** Converting indicators into full strategies with custom Stop Loss, Take Profit, Trailing Stops, and Risk Management.
+- **Custom Alerts:** Webhook-ready alerts for automated trading bots and Telegram/Discord notifications.
 
 ---
 
- 📈 Featured Projects (Showcase)
+### 📈 Featured Projects (Showcase)
 
- 1. 26-Engine Institutional Confluence & Auto-Trade System *(Flagship)*
-* **Focus:** Multi-Timeframe Quantitative Scoring & Automated Trade Execution.
-* **Highlights:** Integrates **26 independent analytical engines**—including HTF Order Blocks (OB), Golden Pockets (GP), FVG, WMA/EMA crossovers, MACD, RSI, ADX, Volume Profile (POC/VAL), CRT + TBS, and ATR—into a live right-side scoring dashboard. Automatically executes high-probability entries when **18–19+ out of 26 confluences** align, complete with dynamic TP/SL and Breakeven (BE) tracking.
+#### 1. 26-Engine Institutional Confluence & Auto-Trade System *(Flagship)*
+- **Focus:** Multi-Timeframe Quantitative Scoring & Automated Trade Execution.
+- **Highlights:** Integrates **26 independent analytical engines**—including HTF Order Blocks (OB), Golden Pockets (GP), FVG, WMA/EMA crossovers, MACD, RSI, ADX, Volume Profile (POC/VAL), CRT + TBS, and ATR—into a live right-side scoring dashboard. Automatically executes high-probability entries when **18–19+ out of 26 confluences** align, complete with dynamic TP/SL and Breakeven (BE) tracking.
 
- 2. Power of 3 (PO3) – AMD Auto-Trade Engine
-* **Focus:** Institutional Market Cycles (Accumulation, Manipulation, Distribution).
-* **Highlights:** Automatically maps **Accumulation, Manipulation, and Distribution** phases as 3 distinct dynamic boxes tailored to their respective timeframes. Combines Higher Timeframe (HTF) directional bias with Lower Timeframe (**15m / 5m**) sniper execution triggers.
+#### 2. Power of 3 (PO3) – AMD Auto-Trade Engine
+- **Focus:** Institutional Market Cycles (Accumulation, Manipulation, Distribution).
+- **Highlights:** Automatically maps **Accumulation, Manipulation, and Distribution** phases as 3 distinct dynamic boxes tailored to their respective timeframes. Combines Higher Timeframe (HTF) directional bias with Lower Timeframe (**15m / 5m**) sniper execution triggers.
 
- 3. Institutional Retail Sentiment & Liquidity Tracker
-* **Focus:** HTF Directional Bias & Stop-Loss (SL) Hunt Prediction.
-* **Highlights:** Analyzes where retail traders cluster their Stop Losses to anticipate institutional liquidity sweeps and accurately forecast the true Higher Timeframe (HTF) market direction.
+#### 3. Institutional Retail Sentiment & Liquidity Tracker
+- **Focus:** HTF Directional Bias & Stop-Loss (SL) Hunt Prediction.
+- **Highlights:** Analyzes where retail traders cluster their Stop Losses to anticipate institutional liquidity sweeps and accurately forecast the true Higher Timeframe (HTF) market direction.
 
- 4. Automated Volume Profile & Magnet Level Dashboard
-* **Focus:** Effortless Volume Profile Mapping & High-Probability Price Magnets.
-* **Highlights:** Designed to eliminate manual Volume Profile errors by automatically plotting key volume zones. Features a dedicated side dashboard displaying the exact price levels of high-volume **"Magnet Zones"** where price is most likely to gravitate.
+#### 4. Automated Volume Profile & Magnet Level Dashboard
+- **Focus:** Effortless Volume Profile Mapping & High-Probability Price Magnets.
+- **Highlights:** Designed to eliminate manual Volume Profile errors by automatically plotting key volume zones. Features a dedicated side dashboard displaying the exact price levels of high-volume **"Magnet Zones"** where price is most likely to gravitate.
 
- 5. Smart Directional RSI Confirmation Suite
-* **Focus:** Simplified Momentum & Trend Shift Detection.
-* **Highlights:** Upgrades the traditional RSI with custom dynamic level lines and automated top-chart **Buy/Sell directional confirmation** alerts whenever market momentum shifts.
+#### 5. Smart Directional RSI Confirmation Suite
+- **Focus:** Simplified Momentum & Trend Shift Detection.
+- **Highlights:** Upgrades the traditional RSI with custom dynamic level lines and automated top-chart **Buy/Sell directional confirmation** alerts whenever market momentum shifts.
 
 ---
 👇 **Explore all of my completed projects, chart screenshots, and detailed feature breakdowns in my pinned repositories below!**
 
 ---
 
-### 📫 Hire Me / Contact
 ### 💼 Custom Development & Inquiries
 
 Looking for a custom TradingView Pine Script indicator, automated strategy, or institutional dashboard?
 
-* **TradingView:** [View My TradingView Profile](https://www.tradingview.com/u/pereraofficia/)
-* **Availability:** Open for custom freelance projects. Please reach out directly through the freelance platform where you found my portfolio!
+- **TradingView:** [View My TradingView Profile](https://www.tradingview.com/u/pereraofficia/)
+- **Availability:** Open for custom freelance projects. Please reach out directly through the freelance platform where you found my portfolio!
