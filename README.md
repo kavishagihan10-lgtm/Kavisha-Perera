@@ -1,4 +1,4 @@
-<img width="701" height="216" alt="image" src="https://github.com/user-attachments/assets/dc499def-3b14-443e-9790-d833526cba99" /># Hi, I'm Kavisha Perera 👋
+# Hi, I'm Kavisha Perera 👋
 ### TradingView Pine Script Developer & Technical Analyst
 
 I specialize in developing custom **TradingView indicators, automated strategies, and multi-confluence trading tools** using **Pine Script (v5 / v6)**. With hands-on trading experience in **Forex (XAU/USD)** and **Crypto (BTC)**, I translate complex price action and Smart Money Concepts into clean, non-repainting, and high-performance scripts.
