@@ -41,8 +41,9 @@ I specialize in developing custom **TradingView indicators, automated strategies
 ---
 
 ### 📫 Hire Me / Contact
-Looking for a custom Pine Script indicator or strategy? Let's work together!
+### 💼 Custom Development & Inquiries
 
-* **Fiverr:** https://www.fiverr.com/users/kavishagihan279/seller_dashboard
-* **TradingView:** https://www.tradingview.com/chart/EHxNoVkv/?symbol=SP%3ASPX
-* **Email:** your-kavishagihan10@gmail.cpm
+Looking for a custom TradingView Pine Script indicator, automated strategy, or institutional dashboard?
+
+* **TradingView:** [View My TradingView Profile](https://www.tradingview.com/u/pereraofficia/)
+* **Availability:** Open for custom freelance projects. Please reach out directly through the freelance platform where you found my portfolio!
